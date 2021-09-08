@@ -1,5 +1,5 @@
 # Delayed-SSA-Models
-Allows one to simulate the delayed stochastic simulation algorithm (DSSA) for the mechanistic and delayed-telegraph models of gene expression in https://www.biorxiv.org/content/10.1101/2021.06.08.447592v1.abstract. Descriptions of each file are provided below.
+This code allows one to simulate the delayed stochastic simulation algorithm (DSSA) for the mechanistic and delayed-telegraph models of gene expression in https://www.biorxiv.org/content/10.1101/2021.06.08.447592v1.abstract. Descriptions of each file are provided below.
 
 - `DSSA-Mech.jl`: Julia code that allows one to simulate the mechanstic model in Eq. (1).
 - `DSSA-delayed-telegraph.jl`: Julia code that allows one to simulate the delayed telegraph model in Eq. (2).
